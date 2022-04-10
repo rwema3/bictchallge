@@ -1063,28 +1063,13 @@ section.testimonials:before {
 
 section.testimonialy {
   position: relative;
-  
+
 }
 
 section.testimonialy:before {
-  position: absolute;
-  content: '';
-  left: 0px;
-  top: -140px;
-  width: 593px;
-  height: 352px;
-  z-index: 1;
+  position: relative;
 }
 
-section.testimonialy:after {
-  position: absolute;
-  content: '';
-  right: 0px;
-  bottom: -140px;
-  width: 632px;
-  height: 352px;
-  z-index: 1;
-}
 section.testimonials:after {
   position: absolute;
   content: '';
