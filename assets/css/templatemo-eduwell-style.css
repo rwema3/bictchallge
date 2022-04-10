@@ -1063,13 +1063,12 @@ section.testimonials:before {
 
 section.testimonialy {
   position: relative;
-  background-image: url(../images/join-us-bg.png);
+  
 }
 
 section.testimonialy:before {
   position: absolute;
   content: '';
-  background-image: url(../images/join-us-bg.png);
   left: 0px;
   top: -140px;
   width: 593px;
@@ -1080,7 +1079,6 @@ section.testimonialy:before {
 section.testimonialy:after {
   position: absolute;
   content: '';
-  background-image: url(../images/join-us-bg.png);
   right: 0px;
   bottom: -140px;
   width: 632px;
