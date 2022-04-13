@@ -470,7 +470,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #fff;
+  background-color: black;
   display: block;
   position: absolute;
   width: 30px;
@@ -481,7 +481,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #fff;
+  background-color: black;
 }
 
 .header-area .main-nav .menu-trigger span:before,
