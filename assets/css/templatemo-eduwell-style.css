@@ -646,8 +646,8 @@ header
     color: #FFFFFF !important;
   }
   .header-area .main-nav .nav li a:hover {
-    background: #eee !important;
-    color: #00A58C!important;
+    background: rgba(0, 0, 0, 0.7) !important;
+    color: #FFFFFF!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
