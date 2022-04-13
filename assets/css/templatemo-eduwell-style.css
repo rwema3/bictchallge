@@ -327,7 +327,7 @@ header
   float: right;
   margin-top: 35px;
   margin-right: 0px;
-  background-color: transparent;
+  background-color: white;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -934,8 +934,8 @@ section.our-courses ul.nacc li .left-image img {
 
 section.our-courses ul.nacc li .left-image .price h6 {
   position: absolute;
-  background: rgb(219,138,222);
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background: white;
+  background: white;
   color: #fff;
   top: 20px;
   left: 20px;
@@ -1649,8 +1649,8 @@ section.our-office #video .thumb .play-button a {
   transform: translate(-40px, -40px);
   color: #fff;
   font-size: 22px;
-  background: rgb(219,138,222);
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background: white;
+  background: white;
 }
 
 section.our-office #video img {
