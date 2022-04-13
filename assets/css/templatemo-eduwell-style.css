@@ -719,7 +719,7 @@ section.main-banner {
   position: absolute;
   background-image: url(../images/banner-right-dec.png);
   width: 378px;
-  height: 400px;
+  height: 4008px;
   content: '';
   right: -25%;
   z-index: 1;
