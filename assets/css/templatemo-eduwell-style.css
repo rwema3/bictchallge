@@ -533,7 +533,7 @@ header
 .header-area .main-nav .menu-trigger.active span,
 .header-area .main-nav .menu-trigger.active span:before,
 .header-area .main-nav .menu-trigger.active span:after {
-  background-color: black;
+  background-color: white;
   width: 100%;
 }
 
