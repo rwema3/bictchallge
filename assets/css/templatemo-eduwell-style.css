@@ -712,14 +712,14 @@ section.main-banner {
 
 .main-banner .right-image img {
   position: relative;
-  z-index: 2;
+  z-index: 9;
 }
 
 .main-banner .right-image::after {
   position: absolute;
   background-image: url(../images/banner-right-dec.png);
   width: 378px;
-  height: 378px;
+  height: 400px;
   content: '';
   right: -25%;
   z-index: 1;
