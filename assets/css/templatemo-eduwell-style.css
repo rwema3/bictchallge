@@ -1104,7 +1104,7 @@ section.testimonials:after {
 
 .testimonials .item h4 {
   margin-top: 30px;
-  font-size: 20px;
+  font-size: 10px;
   font-weight: 900;
   position: relative;
 }
@@ -1233,7 +1233,7 @@ section.contact-us .section-heading {
 }
 
 section.contact-us #contact {
-  margin-left: -80px;
+  margin-left: -90px;
   position: relative;
   z-index: 5;
   background-color: #fff;
