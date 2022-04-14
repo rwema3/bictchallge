@@ -1088,6 +1088,7 @@ section.testimonials:after {
   padding: 30px;
   background-color: #fff;
   margin: 15px;
+  margin-top: -5px;
   transition: all .3s;
   position: relative;
   z-index: 2;
