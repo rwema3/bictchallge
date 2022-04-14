@@ -168,12 +168,14 @@ body {
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   transition: all .3s;
+  margin-left: 300px;
+
 }
 .main-button-gradient img {
   width: 40px;
   height: 40px;
-  margin-left: 300px;
-  margin-top: -200px;
+  margin-left: 200px;
+  margin-top: -220px;
 
 }
 
