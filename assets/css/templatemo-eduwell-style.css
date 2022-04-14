@@ -232,14 +232,13 @@ section {
 }
 
 .section-heading h6 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 400;
-  text-transform: uppercase;
   color: #EF5C6A;
   text-decoration-line: underline;
   font-family: 'Allura', cursive;
   line-height: 60px;
-  margin-top: -10%;
+  margin-top: -13%;
 
 }
 
